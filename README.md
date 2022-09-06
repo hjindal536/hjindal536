@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Jindal</h1>
-<h3 align="center">Data analyst who aspires to solve critical business problems with problem solving skills. Transforming problems into opportunities!</h3>
+<h3 align="center"> Data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hjindal536&label=Profile%20views&color=0e75b6&style=flat" alt="hjindal536" /> </p>
 
