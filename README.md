@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-jindal-724b6016b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-jindal-724b6016b" height="30" width="40" /></a>
 <a href="https://instagram.com/_himanshu_jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_himanshu_jindal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hjindal536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hjindal536" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
